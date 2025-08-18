@@ -1,0 +1,12 @@
+{
+    "general": {
+        "maxAntiquityBeforeDelete": 43200,
+        "maxActionsHistoryLength": 1000
+    },
+    "mail_input_dirs":[
+
+    ],
+    "mail_accounts": {
+
+    }
+}
